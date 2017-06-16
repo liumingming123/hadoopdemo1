@@ -18,7 +18,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>udf.test.id.Udf</mainClass>
+							<mainClass>com.test.hadoop.mapreduce.FlowSum</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
